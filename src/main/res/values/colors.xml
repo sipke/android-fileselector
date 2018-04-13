@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. Sipke Vriend
+  -->
+
+<resources>
+    <color name="list_cellback_unchecked">@android:color/background_dark</color>
+    <color name="list_cellback_checked">#c0c0c0</color>
+</resources>
